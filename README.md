@@ -1,3 +1,4 @@
+![movie_details_table2](https://user-images.githubusercontent.com/68226220/197365558-aa8e101b-a617-4432-ab08-dcd3c803aa24.png)
 Flutter Movie App
 
 
