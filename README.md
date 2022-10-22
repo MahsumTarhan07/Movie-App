@@ -1,4 +1,5 @@
-# movie_app
+![movie_main](https://user-images.githubusercontent.com/68226220/197365452-784157e7-1d74-46c0-b24d-3f3fe80d2dd9.png)![movie_main](https://user-images.githubusercontent.com/68226220/197365456-0c43bc25-1924-4270-9316-58a685890963.png)
+
 
 MovieApp
 
