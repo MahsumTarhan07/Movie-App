@@ -1,5 +1,4 @@
 Flutter Movie App
-![Flutter](https://user-images.githubusercontent.com/68226220/197390057-9480a2a8-e039-4bf0-bdf5-c0586f0c853a.gif)
 
 
 
@@ -9,6 +8,8 @@ Flutter Movie App
 
 
 ![lınkedin](https://user-images.githubusercontent.com/68226220/197390059-9db5d137-bde7-4b56-a8fc-3e32edf46bd9.gif)
+
+![Flutter](https://user-images.githubusercontent.com/68226220/197390057-9480a2a8-e039-4bf0-bdf5-c0586f0c853a.gif)
 
 https://www.linkedin.com/in/mahsum-tarhan-8b9074202/
 
